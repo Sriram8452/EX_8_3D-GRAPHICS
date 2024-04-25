@@ -33,7 +33,7 @@ Program to create and design an android application to draw a shapes using 3D gr
 
 Developed by: Sriram G
 
-Registeration Number : 212222230149
+Registration Number : 212222230149
 
 ### Mainactivity.java:
 
