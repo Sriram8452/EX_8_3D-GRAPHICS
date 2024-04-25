@@ -1,4 +1,4 @@
-# Ex.No:08 Develop a application to draw a shapes using 3D graphics with openGL ES.
+# Ex.No:08 Develop an application to draw shapes using 3D graphics with openGL ES.
 ## AIM:
 To create and design an android application to draw a shapes using 3D graphics with openGL ES using Android Studio.
 
