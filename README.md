@@ -36,7 +36,6 @@ Developed by: Sriram G
 Registration Number : 212222230149
 
 ### Mainactivity.java:
-
 ```
 package com.example.ex8;
 import androidx.appcompat.app.AppCompatActivity;
@@ -64,7 +63,6 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ### MyGLRenderer.java:
-
 ```
 package com.example.ex8;
 import javax.microedition.khronos.egl.EGLConfig;
@@ -121,9 +119,7 @@ public class MyGLRenderer implements GLSurfaceView.Renderer {
     }
 }
 ```
-
 ### pyramid.java:
-
 ```
 package com.example.ex8;
 import java.nio.ByteBuffer;
@@ -182,9 +178,7 @@ class Pyramid {
     }
 }
 ```
-
 ### cube.java:
-
 ```
 package com.example.ex8;
 import java.nio.ByteBuffer;
@@ -252,7 +246,6 @@ class Cube {
 }
 ```
 ### activity_main.xml:
-
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -274,10 +267,7 @@ class Cube {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-
 ## OUTPUT:
 ![image](https://github.com/Sriram8452/EX_8_3D-GRAPHICS/assets/118708032/116e7f57-0445-4771-9ebe-a427621871f1)
-
-
 ## RESULT:
 Thus a Simple Android Application create and design an android application to draw a shapes using 3D graphics with openGL ES using Android Studio is developed and executed successfully.
