@@ -7,25 +7,19 @@ Android Studio(Min. required Artic Fox)
 
 ## ALGORITHM:
 
-1. Set Up Android Studio
+Step 1: Open Android Stdio and then click on File -> New -> New project.
 
-2. Configure OpenGL ES
+Step 2: Then type the Application name as “graphical″ and click Next. 
 
-3. Initialize OpenGL ES Environment
+Step 3: Then select the Minimum SDK as shown below and click Next.
 
-4. Create Shapes
+Step 4: Then select the Empty Activity and click Next. Finally click Finish.
 
-5. Create Shaders
+Step 5: Design layout in activity_main.xml. 
 
-6. Rendering Loop
+Step 6: Draw basic object details give in MainActivity file. 
 
-7. Handle User Interaction
-
-8. Swap Buffers
-
-9. Clean Up
-
-10. Testing and Debugging
+Step 7: Save and run the application
 
 ## PROGRAM:
 
